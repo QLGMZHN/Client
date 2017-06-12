@@ -1,8 +1,12 @@
 # Client
-echo "# Client" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git remote add origin https://github.com/QLGMZHN/Client.git
-  git push -u origin master
-  
+Client codes is writed by C++ on the Android Studio.
+
+### Installation
+* Enviroment
+
+   Android Studio
+
+   Windows10
+
+### Run local
+   Run Android Studio and import ¡°Client¡±  folder.
